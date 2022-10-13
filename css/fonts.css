@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Vollkorn';
+  src: url(../fonts/Vollkorn-Regular.ttf) ;
+  width: 400px;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url(../fonts/Montserrat-Regular.ttf);
+}
